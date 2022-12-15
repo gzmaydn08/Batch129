@@ -15,5 +15,20 @@ public class ForLoop04 {
         }
         System.out.println(sum);
 
+        
+        
+        
+        
+        //Example 2: 7 den 9 a kadar tam sayıların çarpımını  veren kodu yazınız ÖNEMLİ!!!!!!!
+
+        int sum1 = 1;
+
+        for (int i = 7; i<10; i++){
+
+            sum1 = sum1 * i;
+
+        }
+
+        System.out.println("sonuç: "+ sum1);
     }
 }
